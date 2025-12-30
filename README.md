@@ -1,19 +1,18 @@
 # 👋 Hi, I'm Nguyễn Đức Duy
 
-Welcome to my GitHub profile! I'm a passionate software engineer who loves building real-world applications and solving technical challenges across multiple domains.
+Welcome to my GitHub profile! I'm a **4th-year undergraduate student at Ho Chi Minh City University of Education (HCMUE)** and an aspiring software engineer with a strong interest in building practical, real-world systems.
 
-🧠 **Focus Areas:** Backend, Frontend, Cloud services, IoT/Embedded, Microservices, and scalable systems.
-
-📫 Find me working on projects that range from full-stack development to system automation and services with real impact.
+🧠 **Focus Areas:** Backend Development, Web Applications, IoT Systems, Microservices, and System Integration.
 
 ---
 
-## 🚀 About Me
+## 🎓 About Me
 
-- 💼 **IT Professional** with experience in designing and building reliable software systems.
-- 💡 Strong interest in **distributed systems, APIs, real-time services** and modern web ecosystems.
-- 📊 Regularly learning and applying new technologies to improve code quality and delivery.
-- 🌍 Based in Vietnam — open to collaboration and new opportunities.
+- 🎓 **4th-year student** at **Ho Chi Minh City University of Education (HCMUE)**.
+- 💻 **IT major**, focusing on software engineering and applied technologies.
+- 🔧 Interested in designing **reliable backend systems**, APIs, and IoT-based solutions.
+- 📈 Hands-on experience through personal projects and technical experiments.
+- 🌍 Based in Vietnam, actively seeking learning and collaboration opportunities.
 
 ---
 
@@ -32,8 +31,6 @@ Welcome to my GitHub profile! I'm a passionate software engineer who loves build
 ## ⭐ Featured Projects
 
 Here are some highlighted repositories from my profile:
-
-> _Note: link trực tiếp sẽ tự chuyển tới repo của bạn — người đọc chỉ cần click để xem chi tiết._
 
 ### 🔧 Backend & APIs
 - **[WebAPI](https://github.com/ngduyd/WebAPI)** – REST API backend service (C#).  
