@@ -1,77 +1,47 @@
-# 👋 Hi, I'm Nguyễn Đức Duy
+# 👋 Hi, I'm Nguyễn Đ� Duy
 
-Welcome to my GitHub profile! I'm a **4th-year undergraduate student at Ho Chi Minh City University of Education (HCMUE)** and an aspiring software engineer with a strong interest in building practical, real-world systems.
+Full Stack Developer (intern @ IT Department, HCM City University of Education). I build practical backend systems and web apps with **Go, TypeScript, and Python**.
 
-🧠 **Focus Areas:** Backend Development, Web Applications, IoT Systems, Microservices, and System Integration.
-
----
-
-## 🎓 About Me
-
-- 🎓 **4th-year student** at **Ho Chi Minh City University of Education (HCMUE)**.
-- 💻 **IT major**, focusing on software engineering and applied technologies.
-- 🔧 Interested in designing **reliable backend systems**, APIs, and IoT-based solutions.
-- 📈 Hands-on experience through personal projects and technical experiments.
-- 🌍 Based in Vietnam, actively seeking learning and collaboration opportunities.
+🧠 **Focus:** Backend architecture, Web Applications, IoT & Microservices, System Integration  
+🛠️ **Stack:** Go · TypeScript/React/Node.js · Python/FastAPI · PostgreSQL · Docker · C++/ESP32/MQTT
 
 ---
 
-## 🛠️ My Skills
+## 🎓 Experience
 
-| Area | Technologies |
-|------|--------------|
-| Backend | Python, Go, Node.js, Laravel |
-| Frontend | JavaScript/TypeScript, React, Svelte |
-| Mobile & IoT | C++, ESP32, MQTT |
-| Cloud & DevOps | REST, WebSockets, Docker |
-| Database | MySQL, SQLite, MongoDB |
+**Intern — Full Stack Developer**  
+*IT Department, Ho Chi Minh City University of Education* · Jan 2026 – Present  
+Built the HCMUE Graduate Admission System (SDH project) across 3 repos (~140 commits):
+- Backend (FastAPI): JWT auth + refresh tokens, admission workflows, score import from Excel/JSON, audit-log export
+- Database (PostgreSQL): schema design with soft-delete + audit tracking + constraint-based validation
+- Frontend (React + TypeScript + Tailwind): 8-step application form, PDF document review, role-based admin UI
+
+🔗 https://tuyensinhsdh.hcmue.edu.vn
 
 ---
 
 ## ⭐ Featured Projects
 
-Here are some highlighted repositories from my profile:
+### 🔧 Backend / APIs
+- **[Kiro-Go](https://github.com/ngduyd/Kiro-Go)** – Go reverse proxy with uTLS header spoofing (AWS WAF bypass)
+- **[ProxyPool-Go](https://github.com/ngduyd/ProxyPool-Go)** – Go proxy pool manager
 
-### 🔧 Backend & APIs
-- **[WebAPI](https://github.com/ngduyd/WebAPI)** – REST API backend service (C#).  
-- **[economic-be](https://github.com/ngduyd/economic-be)** – Backend service dự án TypeScript.  
+### 🌐 Web Applications
+- **[ai-backend](https://github.com/ngduyd/ai-backend)** – AI microservice backend
+- **[Economic Platform](https://github.com/ngduyd/economic-be)** – TypeScript backend for e-commerce
+- **[monitor](https://github.com/ngduyd/monitor)** – Go monitoring service
+- **[nw-service](https://github.com/ngduyd/nw-service)** – Network service layer
+- **[QuickCopy](https://github.com/ngduyd/QuickCopy)** – Quick copy utility tool
+- **[schedule](https://github.com/ngduyd/schedule)** – Scheduling service
 
-### 📱 Frontend & UI
-- **[economic-ui](https://github.com/ngduyd/economic-ui)** – Frontend ứng dụng (TypeScript).  
-- **[gearpc-frontend](https://github.com/ngduyd/gearpc-frontend)** – Frontend web (PHP).  
-
-### 🧠 Distributed & Services
-- **[mqtt-service](https://github.com/ngduyd/mqtt-service)** – MQTT microservice (Python).  
-- **[monitor](https://github.com/ngduyd/monitor)** – Go service project.  
-
-### 🛠️ Embedded / IoT
-- **[ESP32-Sensor](https://github.com/ngduyd/ESP32-Sensor)** – C++ IoT sensor project.  
-- **[UI-IOT](https://github.com/ngduyd/UI-IOT)** – Python UI cho IoT & dịch vụ.  
-
-### 🧪 Algorithms & Demos
-- **[Ai-conv](https://github.com/ngduyd/Ai-conv)** – Python demo project.   
-
-> Many of my projects are forks from templates — I’ve used them for learning, experimentation, or bootstrapping real prototypes.
+### 📱 IoT & Embedded
+- **[ESP32-Sensor](https://github.com/ngduyd/ESP32-Sensor)** – C++ IoT sensor project
+- **[UI-IOT](https://github.com/ngduyd/UI-IOT)** – Python UI for IoT & services
 
 ---
 
-## 📚 What I’m Learning
-
-- Designing cleaner backend architectures.
-- Scalable event-driven systems and real-time data flows.
-- More advanced cloud deployments and CI/CD practices.
-
----
-
-## 📬 Let’s Connect
-
-💬 I’m open to feedback, ideas or discussions on software design, performance, and implementation.
+## 📫 Let's Connect
 
 - 🐙 GitHub: https://github.com/ngduyd  
-- 📧 Email: nguyenduy2004.d@gmail.com
+- 📧 Email: nguyenduy2004.d@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/ngduyd/
-
----
-
-Thanks for stopping by! 👏
-
