@@ -2,6 +2,8 @@
 
 Full Stack Developer (intern @ IT Department, HCM City University of Education). I build practical backend systems and web apps with **Go, TypeScript, and Python**.
 
+🌐 **Portfolio:** https://www.ngduyd.id.vn/
+
 🧠 **Focus:** Backend architecture, Web Applications, IoT & Microservices, System Integration
 🛠️ **Stack:** Go · TypeScript/React/Node.js · Python/FastAPI · PostgreSQL · Docker · C++/ESP32/MQTT
 
