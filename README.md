@@ -2,15 +2,15 @@
 
 Full Stack Developer (intern @ IT Department, HCM City University of Education). I build practical backend systems and web apps with **Go, TypeScript, and Python**.
 
-🧠 **Focus:** Backend architecture, Web Applications, IoT & Microservices, System Integration  
+🧠 **Focus:** Backend architecture, Web Applications, IoT & Microservices, System Integration
 🛠️ **Stack:** Go · TypeScript/React/Node.js · Python/FastAPI · PostgreSQL · Docker · C++/ESP32/MQTT
 
 ---
 
 ## 🎓 Experience
 
-**Intern — Full Stack Developer**  
-*IT Department, Ho Chi Minh City University of Education* · Jan 2026 – Present  
+**Intern — Full Stack Developer**
+*IT Department, Ho Chi Minh City University of Education* · Jan 2026 – Present
 Built the HCMUE Graduate Admission System (SDH project) across 3 repos (~140 commits):
 - Backend (FastAPI): JWT auth + refresh tokens, admission workflows, score import from Excel/JSON, audit-log export
 - Database (PostgreSQL): schema design with soft-delete + audit tracking + constraint-based validation
@@ -42,6 +42,6 @@ Built the HCMUE Graduate Admission System (SDH project) across 3 repos (~140 com
 
 ## 📫 Let's Connect
 
-- 🐙 GitHub: https://github.com/ngduyd  
-- 📧 Email: nguyenduy2004.d@gmail.com  
+- 🐙 GitHub: https://github.com/ngduyd
+- 📧 Email: nguyenduy2004.d@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/ngduyd/
