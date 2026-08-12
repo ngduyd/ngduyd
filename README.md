@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nguyễn Đ� Duy
+# 👋 Hi, I'm Nguyễn Đức Duy
 
 Full Stack Developer (intern @ IT Department, HCM City University of Education). I build practical backend systems and web apps with **Go, TypeScript, and Python**.
 
